@@ -3,6 +3,8 @@ Un dashboard parfait pour votre bot Discord 📊
 
 Ce code est open source, vous pouvez le modifier à votre guise. Si vous le souhaitez, pensez à laisser le lien vers ce projet Github à un endroit sur le bot pour montrer que vous respectez le travail des autres.
 
+Je remercie [Sworder](http://mathieugallais.me/) pour sa création, ayant quitté Discord je remets son Dashboard à la disposition de chacun.
+
 ## 📚 - Présentation
 
 Ce modèle est là pour vous aider à construire votre propre Dashboard.
@@ -96,5 +98,5 @@ ufw allow 3000
 
 ## 🔮 - Remerciements
 
-Merci à Sworder pour sa création, ayant quitté Discord je remets son Dashboard à la disposition de chacun.
+Je remercie encore une fois [Sworder](http://mathieugallais.me/) pour sa création, ayant quitté Discord je remets son Dashboard à la disposition de chacun.
 Merci d'utiliser ce code.

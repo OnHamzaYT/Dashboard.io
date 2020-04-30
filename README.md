@@ -82,4 +82,20 @@ ufw allow 3000
 
 ## 📸 - Images
 
+Accueil :
+
 ![image](https://cdn.discordapp.com/attachments/617499955652984855/705402891376001184/home.png)
+
+Serveurs : 
+
+![image](https://cdn.discordapp.com/attachments/617499955652984855/705402884300341299/guilds.PNG)
+
+Page serveur :
+
+![image](https://cdn.discordapp.com/attachments/617499955652984855/705402877379608606/conf.PNG)
+
+## 🔮 - Remerciements
+
+Merci à Sworder pour sa création, ayant quitté Discord je remet son Dashboard à la disposition de chacuns.
+Merci d'utiliser ce code.
+

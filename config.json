@@ -3,7 +3,7 @@
 		"id": "",
 		"prefix": "",
 		"secret": "",
-		"status": "",
+		"status": "online",
 		"token": "",
 		"url": "http://localhost"
 	},

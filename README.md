@@ -82,15 +82,15 @@ ufw allow 3000
 
 ## 📸 - Images
 
-Accueil :
+# Accueil :
 
 ![image](https://cdn.discordapp.com/attachments/617499955652984855/705402891376001184/home.png)
 
-Serveurs : 
+# Serveurs : 
 
 ![image](https://cdn.discordapp.com/attachments/617499955652984855/705402884300341299/guilds.PNG)
 
-Page serveur :
+# Page serveur :
 
 ![image](https://cdn.discordapp.com/attachments/617499955652984855/705402877379608606/conf.PNG)
 

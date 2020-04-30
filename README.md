@@ -64,6 +64,27 @@ Cependant, je vous rappelle toutes les fonctions ci-dessous :
 - `url`, l'url de base (laissez le "localhost" si vous n'avez pas de machine/VPS).
 - `port`, le port pour votre application, (de base "3000").
 
+Configurons la redirection pour la connection :
+
+Rendez-vous sur la page des [applications](https://discordapp.com/developers/applications) de Discord.
+
+Sélectionnez votre application > Page OAuth2 > Redirects 
+
+```
+#Lien à renseigner
+http://(host):(port)/auth/login
+
+#Lien de l'exemple (localhost)
+http://localhost:3000/auth/login
+```
+
+Si vous utilisez l'exemple (localhost) prenez la deuxième option, `http://localhost:3000/auth/login`.
+Attention à bien modifier si vous utilisez un autre port que 3000.
+
+Juste en dessous "OAuth2 URL Generator" > "SELECT REDIRECT URL".
+
+Sélectionnez l'URL configurée auparavant.
+
 ## 🚀 - Allumer le bot
 
 Toujours dans l'invite de commandes :

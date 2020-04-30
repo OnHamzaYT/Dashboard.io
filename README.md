@@ -28,7 +28,7 @@ Nous allons utiliser plusieurs modules, pour les installer faites ceci dans votr
 npm i
 ```
 
-Tous les noms de modules sont dans "package.json", tous les fichiers sont utiles n'oubliez pas de ne pas les supprimer.
+Tous les noms de modules sont dans "package.json", tous les fichiers sont utiles conservez les.
 Ensuite, nous allons remplir tout ce dont le bot aura besoin pour assurer le bon fonctionnement.
 
 Ouvrez le fichier "config.json"

@@ -59,7 +59,7 @@ Cependant, je vous rappelle toutes les fonctions ci-dessous :
 - `secret`, le jeton secret de votre bot.
 - `status`, le statut de votre bot (laissez "online" par défaut).
 - `token`, le token secret de votre bot.
-- `url`, l'url de base (laissez "http://localhost" si vous n'avez pas de machine/VPS).
+- `url`, l'url de base (laissez le "localhost" si vous n'avez pas de machine/VPS).
 - `port`, le port pour votre application, (de base "3000").
 
 ## 🚀 - Allumer le bot

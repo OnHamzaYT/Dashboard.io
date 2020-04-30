@@ -96,6 +96,5 @@ ufw allow 3000
 
 ## 🔮 - Remerciements
 
-Merci à Sworder pour sa création, ayant quitté Discord je remet son Dashboard à la disposition de chacuns.
+Merci à Sworder pour sa création, ayant quitté Discord je remets son Dashboard à la disposition de chacun.
 Merci d'utiliser ce code.
-

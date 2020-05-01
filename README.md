@@ -16,7 +16,7 @@ Ce code est complet et possède plusieurs fonctions telles que :
 
 ## ⚙️ - Configuration
 
-Vous aurez tout d'abord besoin de Node, que vous pouvez télécharger en cliquant simplement sur [ici](https://nodejs.org/en/download/). La version la plus récente est recommandée.
+Vous aurez tout d'abord besoin de Node, que vous pouvez télécharger en cliquant simplement [ici](https://nodejs.org/en/download/). La version la plus récente est recommandée.
 
 Tout d'abord, indiquons notre chemin d'accès, dans l'invite de commande :
 
